@@ -28,6 +28,8 @@ img {
     height: 100%;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
+    mix-blend-mode: multiply;
+    opacity: 0.75;
 }
 
 h1 {
@@ -65,6 +67,7 @@ span {
     width: 50%;
     border-bottom-right-radius: 15px;
     border-top-right-radius: 15px;
+    background: hsl(277, 63%, 61%);
 }
 
 .content {
